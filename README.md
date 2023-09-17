@@ -15,5 +15,4 @@ Activities and examples using the C++ programming language
 </h2>
 # Autores
 
-[<img loading="Ambrosio" src="https://avatars.githubusercontent.com/u/123590853?s=96&v=4" width=115><br>| <sub>Ambrosio</sub>](https://github.com/Ambrosio9722)
- |
+[<img loading="Ambrosio" src="https://avatars.githubusercontent.com/u/123590853?s=96&v=4" width=115><br> <sub>Ambrosio</sub>](https://github.com/Ambrosio9722)
