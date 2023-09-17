@@ -10,6 +10,6 @@ Activities and examples using the C++ programming language
 ╲┃┈┈┈┈╭━┳━━━━╯                              
 ╲┣━━━━━━┫﻿                 
                             
-<h4 align="center"> 
+<h2 align="center"> 
     :construction:  Projeto em construção  :construction:
-</h4>
+</h2>
