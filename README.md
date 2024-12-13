@@ -1,18 +1,12 @@
 # C++
-Activities and examples using the C++ programming language
+# Repositório dedicado a projetos envolvendo a linguagem de programação C++
 
-╭━┳━╭━╭━╮╮                    
-┃┈┈┈┣▅╋▅┫┃                        
-┃┈┃┈╰━╰━━━━━━╮                   
-╰┳╯┈┈┈┈┈┈┈┈┈◢▉◣                    
-╲┃┈┈┈┈┈┈┈┈┈▉▉▉                   
-╲┃┈┈┈┈┈┈┈┈┈◥▉◤               
-╲┃┈┈┈┈╭━┳━━━━╯                              
-╲┣━━━━━━┫﻿                 
-                            
-<h2 align="center"> 
-    :construction:  Project under construction  :construction:
-</h2>
-# Autores
+```cpp
+#include <iostream>
 
-[<img loading="Ambrosio" src="https://avatars.githubusercontent.com/u/123590853?s=96&v=4" width=115><br> <sub>Ambrosio</sub>](https://github.com/Ambrosio9722)
+int main() {
+    std::cout << "Hello, World!" << std::endl;
+    return 0;
+}
+```
+![C++ Logo](https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg)
